@@ -61,10 +61,5 @@ public class MainController {
 		mav.addObject("studentList", this.students);
 		return mav;
 	}
-	
-	
-	
-
-	
-	
+		
 }
